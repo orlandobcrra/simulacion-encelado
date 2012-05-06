@@ -1,0 +1,6 @@
+empuje y negativo
+modulo del eje x
+colicion entre chorro y nave
+teclas
+particulas
+estatus de la simulacion
